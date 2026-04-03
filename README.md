@@ -1,5 +1,5 @@
 # portfolio-profile
-This is a simple personak profile page built using HTML ans CSS. 
+This is a simple personal profile page built using HTML ans CSS. 
 
 ##Features
 -Clean UI design
